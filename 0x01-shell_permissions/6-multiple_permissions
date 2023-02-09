@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 754 happy
+chmod 554 happy
